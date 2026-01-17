@@ -2,7 +2,7 @@
 
 ## About EzraMade
 
-EzraMade is a global on-demand manufacturing partner specializing in **plastic injection molding**, supporting product teams from early prototyping through low- to medium-volume production.  
+[EzraMade](https://ezramade.com) is a global on-demand manufacturing partner specializing in **plastic injection molding**, supporting product teams from early prototyping through low- to medium-volume production.  
 We help startups, brands, and engineering teams turn ideas into **production-ready parts with predictable quality, cost, and lead time**.
 
 Unlike generalist manufacturing platforms, EzraMade is **injection-molding-first by design**. Our processes, engineering workflows, and quality systems are built around tooling, material performance, and scalable manufacturing — not just fast prototypes.
